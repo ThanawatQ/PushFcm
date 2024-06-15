@@ -1,4 +1,4 @@
-## How to setup FCM V1  
+## React Native Expo setup FCM V1  
 1. npm install  @react-native-firebase/app  @react-native-firebase/messaging
 2. npm install --global eas-cli
 3. login expo and setup eas config.json
