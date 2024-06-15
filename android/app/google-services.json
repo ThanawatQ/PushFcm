@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151942593100",
+    "project_id": "noti-418e0",
+    "storage_bucket": "noti-418e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151942593100:android:529ee0268ae4652c4e52e9",
+        "android_client_info": {
+          "package_name": "com.thanawat.p.PushFcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG9N9hgiv8OMsV25ie3P6UO-olExxb34w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
