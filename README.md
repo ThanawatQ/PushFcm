@@ -2,7 +2,7 @@
 1. npm install  @react-native-firebase/app  @react-native-firebase/messaging
 2. npm install --global eas-cli
 3. login expo and setup eas config.json
-4. Create app in [FCM](console.firebase.google.com)   STEP This ==> [Link](https://docs.expo.dev/push-notifications/fcm-credentials/)
+4. Create app in [FCM](https://console.firebase.google.com)   STEP This ==> [Link](https://docs.expo.dev/push-notifications/fcm-credentials/)
 5. Add google Service to app.json 
 6. Build to expo  npx eas build -p android --profile preview
 
